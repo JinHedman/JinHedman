@@ -2,7 +2,7 @@
 I am JinHedman, currently a student but an aspiring fullstack developer.
 
 # 💫 About Me:
-🎓Student @ KTH (Royal Institute of Technology) with batchelors in Media Technology and ongoing masters in Computer Science. <br>👁️Student Development Team @Eyevinn.
+🎓Student @ KTH (Royal Institute of Technology) with bachelor's in Media Technology and ongoing masters in Computer Science. <br>👁️Student Development Team @Eyevinn.
 
 
 ## 🌐 Socials:
