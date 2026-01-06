@@ -2,7 +2,7 @@
 I am JinHedman, a fulltime fullstack developer.
 
 # 💫 About Me:
-🎓Student @ KTH (Royal Institute of Technology) with bachelor's in Media Technology and ongoing masters in Computer Science. <br>💻 Fullstack Developer @ WeKnowIT.
+🎓Student @ KTH (Royal Institute of Technology) with bachelor's in Media Technology and ongoing masters in Computer Science. <br>💻 Fullstack Developer @Eyevinn.
 
 
 ## 🌐 Socials:
