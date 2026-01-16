@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am JinHedman, a fulltime fullstack developer.
+I'm JinHedman, a fulltime developer.
 
 # 💫 About Me:
 🎓Student @ KTH (Royal Institute of Technology) with bachelor's in Media Technology and ongoing masters in Computer Science. <br>💻 Developer @Eyevinn.
